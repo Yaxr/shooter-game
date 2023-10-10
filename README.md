@@ -1,1 +1,1 @@
-# shooter-game
+# game-shooter-multiplayer
